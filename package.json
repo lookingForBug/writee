@@ -1,0 +1,25 @@
+{
+  "name": "writee",
+  "version": "1.0.0",
+  "description": "blog spa on mern stack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": "https://github.com/lookingForBug/writee.git",
+  "author": "Aleksandr Alekseev <alexeev.wrk@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.15"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.6"
+  }
+}

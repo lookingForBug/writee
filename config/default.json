@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://admin:XVgbTdHCyooVHbmX@cluster0.dznwu.mongodb.net/app?retryWrites=true&w=majority",
+  "jwt": "hello there secret jwt"
+}
